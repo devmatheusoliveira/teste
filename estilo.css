@@ -1,0 +1,91 @@
+    /* Lembre-se que usamos os seletores:
+    "#" para id
+    "." para class */
+
+body{
+    text-align: center;
+    margin: 0px;
+    font-family: 'Arial';
+    background-color: #bdc3c7;
+}
+
+#titulo{
+    position: fixed;
+    color: blanchedalmond;
+    padding: 2px;
+    text-shadow: 4px 4px #2c3e50 ;
+    font-size: 30px;
+    background: #9b59b6;
+    margin:0px;
+}
+
+.ods{
+    color: white;
+    margin: 0% 25px 0% 25px;
+    padding-top: 0.25%;
+    padding-bottom: 0.5%;
+    background-color: #e74c3c;
+}
+
+.paragrafos{
+    color: white;
+    padding: 0px 10px 0px 10px;
+}
+
+.quemSomos{
+    color: white;
+    margin: 0% 25px 0% 25px;
+    padding-top: 0.25%;
+    padding-bottom: 0.5%;
+    background-color: #3498db; 
+}
+
+.iconsRedes{
+    color: transparent;
+    margin: 0% 25px 0% 25px;
+}
+
+#redesSociais{
+    color: white;
+    margin: 0% 25px 0% 25px;
+    padding-top: 0.25%;
+    padding-bottom: 0.5%;
+    background-color: #3498db; 
+}
+
+#jogo{
+    position: absolute;
+    left: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: #00b894;
+}
+#MetasONU{
+    position: absolute;
+    margin-left: 125px;
+    width: 250px;
+    height: 50px;
+    background-color: #00cec9;
+}
+#teste3{
+    position: absolute;
+    margin-left: 375px;
+    width: 250px;
+    height: 50px;
+    background-color: #6c5ce7;
+}
+#teste4{
+    position: relative;
+    margin-left: 625px;
+    width: 250px;
+    height: 50px;
+    background-color: #d63031;
+}
+
+.textoBotoes{
+    color: white;
+    position: relative;
+    padding-top: 10px;
+    margin: 0px;
+}
+
