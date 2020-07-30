@@ -1,0 +1,15 @@
+html, body{
+    margin: 0;
+}
+body{
+    background-color: black;
+    text-align: center;
+}
+
+#titulo{
+    font-size: 70;
+    color: #E0E4CC;
+    margin-bottom: 1%;
+    padding-top: 10%;
+    text-align: center;
+}
